@@ -1,3 +1,16 @@
+h1 {
+    color: blue; /* Warna teks */
+    font-family: Arial, sans-serif; /* Jenis font */
+    text-align: center; /* Posisi horizontal */
+}
+
+p {
+    color: green;
+    font-family: "Times New Roman", serif;
+    position: absolute; /* Posisi absolut */
+    top: 50px;
+    left: 100px;
+}
 body {
     margin: 0;
     font-family: sans-serif;
